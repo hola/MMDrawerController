@@ -1,0 +1,8 @@
+module MMDrawerController {
+    header "MMDrawerController.h"
+    header "MMDrawerController+Subclass.h"
+    header "UIViewController+MMDrawerController.h"
+    header "MMDrawerBarButtonItem.h"
+    header "MMDrawerVisualState.h"
+    export *
+}
